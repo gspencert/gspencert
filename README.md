@@ -8,11 +8,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um estudante de **Sistemas de Informação** apaixonado por tecnologia e desenvolvimento **Backend**. Atualmente, estou focado em aprimorar minhas habilidades em **C# / .NET** e explorar o ecossistema de cloud computing.
-
-* 💡 Buscando o primeiro desafio profissional na área de desenvolvimento.
-* 🌱 Focado em aprender sobre **Clean Architecture** e **DevOps**.
-* 💬 Aberto a falar sobre jogos, filmes ou qualquer novidade do mundo tech!
+Sou um estudante de **Sistemas de Informação** apaixonado por tecnologia e desenvolvimento **Backend**. Atualmente, estou focado em aprimorar minhas habilidades em **C# / .NET** e **POO**.
 
 ---
 
@@ -45,5 +41,3 @@ Sou um estudante de **Sistemas de Informação** apaixonado por tecnologia e des
 <a href="https://www.linkedin.com/in/ghspencert/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-[LINKEDIN](https://www.linkedin.com/in/ghspencert/)
