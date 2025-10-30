@@ -30,6 +30,7 @@ Sou um estudante de **Sistemas de Informação** apaixonado por tecnologia e des
     <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40">
 </p>
 
+https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
 
 ---
 
