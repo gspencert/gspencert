@@ -14,8 +14,7 @@ Sou um estudante de **Sistemas de Informação** apaixonado por tecnologia e des
 
 ### 📊 Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gspencert&layout=compact&hide_title=true&langs_count=6&theme=dark&card_width=500)](https://github.com/gspencert)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=gspencert&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
