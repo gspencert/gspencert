@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um estudante de **Sistemas de Informação** apaixonado por tecnologia e desenvolvimento **Backend**. Atualmente, estou focado em aprimorar minhas habilidades em **C# / .NET** e **POO**.
+Sou um estudante de Sistemas de Informação apaixonado por tecnologia e desenvolvimento **Backend**. Atualmente, estou focado em aprimorar minhas habilidades em **C# / .NET e POO**, buscando construir **sistemas robustos e escaláveis** e mergulhar em arquiteturas de microsserviços.
 
 ---
 
