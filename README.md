@@ -1,19 +1,17 @@
 # Olá! 👋 Eu sou Guilherme Spencer.
 
 ### 🎓 Formação Acadêmica
-- **Sistemas de Informação** - UFN (Universidade Franciscana)
+* **Sistemas de Informação** - UFN (UFN - Universidade Franciscana)
 
 ---
 
 ### 🚀 Sobre Mim
-Sou um estudante de Sistemas de Informação apaixonado por tecnologia e desenvolvimento **Backend**.  
-Atualmente, estou focado em aprimorar minhas habilidades em **C# / .NET e POO**, buscando construir sistemas robustos e escaláveis e mergulhar em arquiteturas de microsserviços.
+Sou um estudante de Sistemas de Informação apaixonado por tecnologia e desenvolvimento **Backend**. Atualmente, estou focado em aprimorar minhas habilidades em **C# / .NET e POO**, buscando construir **sistemas robustos e escaláveis** e mergulhar em arquiteturas de microsserviços.
 
 ---
 
 ### 📊 Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gspencert&layout=compact&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gspencert&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -31,4 +29,5 @@ Atualmente, estou focado em aprimorar minhas habilidades em **C# / .NET e POO**,
 
 ### 📞 Conecte-se Comigo
 
-[![Instagram](https://img.shields.io/ba)]()
+<a href="http://instagram.com/ghspencer_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=f
